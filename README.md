@@ -66,7 +66,7 @@ footer / color: #777;
 # Capturas: 
      ![Texto alternativo de la imagen](ruta/a/la/imagen.png)
           ![Texto alternativo de la imagen](ruta/a/la/imagen.png)
-               ![Texto alternativo de la imagen](ruta/a/la/imagen.png)
+               ![Contactos.](https://github.com/Ignacio150/MejorasPP2/blob/812730ee2c31c8cdb18641532ae0b96e91f36a22/css/Img/contacto.png)
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
