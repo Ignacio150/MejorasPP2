@@ -65,12 +65,12 @@ footer / color: #777;
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 # Capturas: 
 
-[Index](https://github.com/Ignacio150/MejorasPP2/blob/main/css/Img/index.png?raw=true)
-[Servicio.](css/Img/servicio.png)
-[Contactos.](css/Img/contacto.png)
+[Index](css/Img/index.png)  //  [Servicio.](css/Img/servicio.png) //  [Contactos.](css/Img/contacto.png)
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
 **Autor:** Ignacio Ismael Morales  
 **Institución:** Instituto Terciario Superior Ntra. Sra. de Luján del Buen Viaje  
 **Fecha:** Agosto 2025/08/19
+
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
