@@ -1,0 +1,59 @@
+body {
+    background-color: #f2f2f2;
+    font-family: 'Segoe UI', sans-serif;
+    color: #333;
+}
+
+header {
+    background-color: #00bcd4;
+}
+
+header a.fs-2 {
+    font-family: 'Georgia', serif;
+    color: white;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+}
+
+nav a.btn {
+    font-weight: 500;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+}
+
+nav a.btn:hover {
+    background-color: #ffffff;
+    color: #00bcd4;
+}
+
+main .bg-white {
+    background-color: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    border: 1px solid #e0e0e0;
+}
+
+h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #00bcd4;
+}
+
+p.lead {
+    font-size: 1.2rem;
+    color: #555;
+}
+
+.btn-outline-info {
+    border-color: #00bcd4;
+    color: #00bcd4;
+    border-radius: 30px;
+    padding: 0.5rem 1.5rem;
+    font-weight: 500;
+}
+
+footer {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 0.9em;
+    color: #777;
+}
