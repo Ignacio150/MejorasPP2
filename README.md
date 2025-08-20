@@ -9,7 +9,7 @@ Sitio web desarrollado para el Recuperatorio de Práctica Profesional II. Promue
 # Enlaces:
 
 - *Sitio online:* [Vuelos Argentinos.](https://ignacio150.github.io/MejorasPP2/)
-- *Repositorio:* [Ignacio150](https://github.com/Ignacio150?tab=repositories)
+- *Repositorio:* [Ignacio150](https://github.com/Ignacio150/MejorasPP2)
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
