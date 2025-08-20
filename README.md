@@ -64,9 +64,10 @@ footer / color: #777;
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 # Capturas: 
-     ![Index](css/Img/index.png)
-          ![Servicio.](css/Img/servicio.png)
-               ![Contactos.](css/Img/contacto.png)
+
+     [Index](css/Img/index.png)
+     [Servicio.](css/Img/servicio.png)
+     [Contactos.](css/Img/contacto.png)
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
