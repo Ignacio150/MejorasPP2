@@ -65,9 +65,9 @@ footer / color: #777;
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 # Capturas: 
 
-     [Index](https://github.com/Ignacio150/MejorasPP2/blob/main/css/Img/index.png?raw=true)
-     [Servicio.](css/Img/servicio.png)
-     [Contactos.](css/Img/contacto.png)
+[Index](https://github.com/Ignacio150/MejorasPP2/blob/main/css/Img/index.png?raw=true)
+[Servicio.](css/Img/servicio.png)
+[Contactos.](css/Img/contacto.png)
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
